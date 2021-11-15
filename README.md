@@ -1,4 +1,4 @@
-# ⚠️ ADVERTENCIA
+# ⚠️ADVERTENCIA
 
 Este script no esta funcional
 aun esta en proyecto
